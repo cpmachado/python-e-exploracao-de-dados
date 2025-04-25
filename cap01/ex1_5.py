@@ -1,3 +1,7 @@
+"""
+Programa que verifica a paridade de um número que o utilizador insere
+"""
+
 n = int(input("Vamos verificar a paridade do número: "))
 
 msg = "ímpar"
